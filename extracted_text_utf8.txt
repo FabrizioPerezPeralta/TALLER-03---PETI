@@ -1,0 +1,726 @@
+
+--- PAGINA 63 ---
+5.1 MATRIZ DE VINCULACIÓN DE OBJETIVOS DE GOBIERNO DIGITAL CON OBJETIVOS ESTRATÉGICOS
+Mapa Estratégico Indicador
+Objetivos
+Logro Logro Logro
+Estratégicos
+Desafíos Objetivos de Gobierno Digital Nombre Fórmula
+esp
+20
+e
+2
+ra
+5
+d o esp
+20
+e
+2
+ra
+6
+d o esp
+20
+e
+2
+ra
+7
+d o Responsable
+Institucionales
+(OEI)
+OEI.01 Mejorar el Desafío 1 Objetivo de Gobierno Digital 1 Tasa Efectiva TIGV = IIGV / VIGV 3.63% - 3.69% - 3.77% - INER, INGP,
+cumplimiento Asegurar que la Implementar servicios digitales sobre Ventas Donde: 3.69% 3.77% 3.87% INDIA, INCA
+tributario y experiencia del innovadores y accesibles que del Impuesto IIGV: Monto agregado del
+aduanero de los contribuyente y faciliten el cumplimiento General a las impuesto determinado del
+administrados usuario de tributario y aduanero. Ventas (TIGV) Impuesto General a las
+comercio exterior Ventas correspondiente al
+débito fiscal (casilla 131)
+con los servicios Objetivo de Gobierno Digital 2
+menos el crédito fiscal
+digitales Mejorar la eficiencia de la
+(sumatoria de las casillas
+desarrollados por la SUNAT respecto de los servicios
+178, 172 y 169) de cada
+SUNAT sea que brinda a los contribuyentes
+contribuyente. Si el resultado
+satisfactoria, y usuarios aduaneros, mediante es mayor que cero, se resta el
+facilitando el la digitalización de sus saldo a favor del periodo
+cumplimiento procesos. anterior (casilla 145) hasta
+tributario y Objetivo de Gobierno Digital 3: cubrir el resultado positivo del
+aduanero Impulsar el desarrollo de débito menos crédito fiscal
+servicios digitales declarado por cada
+Desafío 2 interoperables con las entidades contribuyente. Si el resultado
+Asegurar la del estado y sectores para un contribuyente es
+eficiencia de los estratégicos, a partir de una negativo, se considera S/ 0.
+procesos de la infraestructura flexible y VIGV: Monto agregado de
+SUNAT en base a la escalable. ventas gravadas
+correspondiente a la suma de
+implementación de
+las casillas 100, 124, 154 y
+procesos digitales. Objetivo de Gobierno Digital 4
+160 menos las casillas 102,
+Desarrollar la gestión de riesgos
+126 y 162.
+de cumplimiento, a partir del uso
+Todas las casillas
+Desafío 3 intensivo de tecnologías corresponden al formulario
+Asegurar la emergentes, así como del 621.
+interoperabilidad desarrollo de modelos de datos
+con otras analíticos y predictivos que Tasa Efectiva TRTA = IPCR / IRTA 2.58% - 2.60% - 2.63% - INER, INGP,
+Entidades, bajo un permitan la detección de sobre Ingresos Donde: 2.60% 2.63% 2.67% INDIA, INCA
+entorno que permita incumplimientos tributarios y del Impuesto a IPCR = Monto agregado del
+flexibilidad y aduaneros. la Renta de impuesto determinado del
+escalabilidad. Tercera pago a cuenta del Impuesto
+Objetivo de Gobierno Digital 5 Categoría a la Renta de Tercera
+Desafío 4 Impulsar una Administración (TRTA) Categoría (casilla 312)
+Desarrollar la Tributario Aduanera confiable menos el saldo a favor del
+inteligencia sobre la base del uso de una periodo anterior (casilla
+organizacional para plataforma informática con 303) de cada
+gestionar el riesgo niveles adecuados de contribuyente. El saldo a
+63
+--- PAGINA 64 ---
+Mapa Estratégico Indicador
+Objetivos
+Logro Logro Logro
+Estratégicos
+Desafíos Objetivos de Gobierno Digital Nombre Fórmula
+esp
+20
+e
+2
+ra
+5
+d o esp
+20
+e
+2
+ra
+6
+d o esp
+20
+e
+2
+ra
+7
+d o Responsable
+Institucionales
+(OEI)
+de incumplimiento, disponibilidad, integridad, favor del periodo anterior
+mediante el seguridad y confidencialidad en se resta hasta cubrir el
+aprovechamiento la información que gestiona, pago a cuenta declarado
+de la tecnología y asegurando su gobernabilidad y por cada contribuyente. Si
+contando con capacidad de respuesta frente a el resultado para un
+personal con las nuevas amenazas y desafíos a contribuyente es negativo,
+capacidades nivel digital. se considera S/ 0.
+digitales IRTA = Monto agregado de
+necesarias. ingresos gravados (casilla
+301).
+Desafío 5 Todas las casillas
+Garantizar la corresponden al formulario
+confiabilidad en los 621.
+servicios digitales
+provistos por la
+SUNAT a partir del
+uso de una
+plataforma
+informática que
+asegure la
+confidencialidad,
+disponibilidad e
+integridad de los
+datos.
+OEI.02 Desafío 1 Objetivo de Gobierno Digital 1 Nivel de C = (A / B) x 100 27% 29% 31% INDIA
+Fortalecer la Asegurar que la Implementar servicios digitales participación de Donde:
+seguridad de la experiencia del innovadores y accesibles que importadores y C= Nivel de participación
+cadena logística en contribuyente y faciliten el cumplimiento tributario exportadores en el valor FOB de las
+el comercio exterior usuario de comercio y aduanero. OEA - empresas Certificadas
+exterior con los Operador OEA – Operador
+Económico
+servicios digitales Objetivo de Gobierno Digital 2 Económico Autorizado.
+Autorizado.
+desarrollados por la Mejorar la eficiencia de la SUNAT A= Valor FOB de las
+SUNAT sea respecto de los servicios que declaraciones de
+satisfactoria, brinda a los contribuyentes y importación para el
+facilitando el usuarios aduaneros, mediante la consumo y exportación
+cumplimiento digitalización de sus procesos. definitiva del OEA
+tributario y aduanero importador y del OEA
+Objetivo de Gobierno Digital 3 exportador.
+Desafío 2 Impulsar el desarrollo de B= Valor FOB de las
+Asegurar la servicios digitales interoperables declaraciones de
+eficiencia de los con las entidades del estado y importación para el
+64
+--- PAGINA 65 ---
+Mapa Estratégico Indicador
+Objetivos
+Logro Logro Logro
+Estratégicos
+Desafíos Objetivos de Gobierno Digital Nombre Fórmula
+esp
+20
+e
+2
+ra
+5
+d o esp
+20
+e
+2
+ra
+6
+d o esp
+20
+e
+2
+ra
+7
+d o Responsable
+Institucionales
+(OEI)
+procesos de la sectores estratégicos, a partir de consumo y exportación
+SUNAT en base a la una infraestructura flexible y definitiva.
+implementación de escalable.
+procesos digitales.
+Objetivo de Gobierno Digital 5
+Desafío 3: Impulsar una Administración
+Asegurar la Tributario Aduanera confiable
+interoperabilidad con sobre la base del uso de una
+otras Entidades, plataforma informática con
+bajo un entorno que niveles adecuados de
+permita flexibilidad y disponibilidad, integridad,
+escalabilidad. seguridad y confidencialidad en la
+información que gestiona,
+asegurando su gobernabilidad y
+capacidad de respuesta frente a
+nuevas amenazas y desafíos a
+nivel digital.
+OEI.03 Desafío 1 Objetivo de Gobierno Digital 1 Porcentaje de PDIA = (A/B) x 100 70.2% 71.2% 72.2% INDIA
+Facilitar las Asegurar que la Implementar servicios digitales Declaraciones
+operaciones lícitas experiencia del innovadores y accesibles que Aduaneras de Donde:
+en el comercio contribuyente y faciliten el cumplimiento tributario Mercancías PDIA: Porcentaje de DAM de
+exterior usuario de comercio y aduanero. (DAM) de importación para el consumo
+exterior con los importación atendidas dentro de las 48
+para el horas
+servicios digitales Objetivo de Gobierno Digital 2
+consumo A = Cantidad de DAM con un
+desarrollados por la Mejorar la eficiencia de la SUNAT
+atendidas tiempo total de despacho
+SUNAT sea respecto de los servicios que
+dentro de las 48 (TTD) <= 48 horas
+satisfactoria, brinda a los contribuyentes y
+horas B = Cantidad total de DAM
+facilitando el usuarios aduaneros, mediante la
+cumplimiento digitalización de sus procesos. Tiempo Total de Despacho
+tributario y aduanero (TTD) = (C – D)
+Objetivo de Gobierno Digital 3
+C = Es el valor de la fecha de
+Desafío 2 Impulsar el desarrollo de
+autorización del levante de la
+Asegurar la servicios digitales interoperables
+DAM.
+eficiencia de los con las entidades del estado y
+D = Es el valor de la fecha de
+procesos de la sectores estratégicos, a partir de la llegada.
+SUNAT en base a la una infraestructura flexible y
+implementación de escalable.
+procesos digitales.
+Objetivo de Gobierno Digital 5
+Desafío 3 Impulsar una Administración
+Tributario Aduanera confiable
+65
+--- PAGINA 66 ---
+Mapa Estratégico Indicador
+Objetivos
+Logro Logro Logro
+Estratégicos
+Desafíos Objetivos de Gobierno Digital Nombre Fórmula
+esp
+20
+e
+2
+ra
+5
+d o esp
+20
+e
+2
+ra
+6
+d o esp
+20
+e
+2
+ra
+7
+d o Responsable
+Institucionales
+(OEI)
+Asegurar la sobre la base del uso de una
+interoperabilidad con plataforma informática con
+otras Entidades, niveles adecuados de
+bajo un entorno que disponibilidad, integridad,
+permita flexibilidad y seguridad y confidencialidad en la
+escalabilidad. información que gestiona,
+asegurando su gobernabilidad y
+capacidad de respuesta frente a
+nuevas amenazas y desafíos a
+nivel digital.
+OEI.04 Desafío 4 Objetivo de Gobierno Digital 4 Porcentaje de PCEP= Monto de Ejecución 95% 95% 95% INA, INRH,
+Fortalecer las Desarrollar la Desarrollar la gestión de riesgos cumplimiento de Presupuestal anual x 100 INFIF, INEI,
+capacidades de inteligencia de cumplimiento, a partir del uso la ejecución Monto del Presupuesto UEMSI
+gestión organizacional para intensivo de tecnologías presupuestal Institucional Modificado.
+institucional gestionar el riesgo de emergentes, así como del anual a nivel Donde:
+incumplimiento, desarrollo de modelos de datos pliego PCEP: Porcentaje de
+cumplimiento de la ejecución
+mediante el analíticos y predictivos que
+Presupuestal.
+aprovechamiento de permitan la detección de
+la tecnología y incumplimientos tributarios y
+contando con aduaneros.
+personal con las
+capacidades Objetivo de Gobierno Digital 5
+digitales necesarias. Impulsar una Administración
+Tributario Aduanera confiable
+Desafío 5 sobre la base del uso de una
+Garantizar la plataforma informática con
+confiabilidad en los niveles adecuados de
+servicios digitales disponibilidad, integridad,
+provistos por la seguridad y confidencialidad en la
+SUNAT a partir del información que gestiona,
+uso de una asegurando su gobernabilidad y
+plataforma capacidad de respuesta frente a
+informática que nuevas amenazas y desafíos a
+asegure la nivel digital.
+confidencialidad,
+disponibilidad e
+integridad de los
+datos.
+66
+--- PAGINA 67 ---
+5.2 MATRIZ DE VINCULACIÓN DE OBJETIVOS DE GOBIERNO DIGITAL CON ACCIONES ESTRATÉGICAS
+Objetivos Estratégicos Acciones Estratégicas Logros esperados en el período del
+Objetivo
+D
+s
+i g
+d
+i
+e
+t a
+G
+l
+obierno
+Código
+Instituc
+D
+io
+e
+n
+s
+a
+c
+l
+r
+e
+ip
+s
+ción Códig
+I
+o
+n stituci
+D
+on
+es
+a
+c
+le
+r
+s
+ip ción
+Nombre del Indicador
+2025
+pl
+2
+a
+0
+n
+2 6 2027
+Objetivo de Gobierno OEI.01 Mejorar el AEI.01.01 Gestión efectiva Porcentaje de contribuyentes 24.7% 25% 25.4%
+Digital 1 cumplimiento del cumplimiento gestionados y/o asistidos (CGA)
+Implementar servicios tributario y aduanero tributario de los
+digitales innovadores y de los administrados administrados
+accesibles que faciliten AEI.01.02 Gestión efectiva Porcentaje de Declaraciones 92.1% 92% 92.1%
+el cumplimiento tributario del cumplimiento Aduaneras de Mercancías
+y aduanero. aduanero de los (DAM) de importación para el
+administrados consumo con diligencia de
+despacho
+Porcentaje de Declaraciones 49% 51.3% 52.4%
+Aduaneras de Mercancías
+(DAM) de importación para el
+consumo que cumplen con el
+pago oportuno
+AEI.01.04 Modernización y Porcentaje de cumplimiento de 100% 100% 100%
+transformación entregables para la
+digital de los modernización y transformación
+procesos de la digital en TI
+entidad Porcentaje de cumplimiento de 100% 100% 100%
+entregables para la
+modernización y transformación
+digital en Aduanas
+AEI.01.05 Desarrollo de Porcentaje de cumplimiento de 100% 100% 100%
+iniciativas de entregables asociados al
+Fiscalidad desarrollo de iniciativas de
+internacional en fiscalidad internacional
+el país
+AEI.01.06 Implementación Porcentaje de cumplimiento de 100% 100% 100%
+del cumplimiento entregables asociados al
+colaborativo en cumplimiento colaborativo
+el país
+AEI.01.07 Servicios Porcentaje de disponibilidad de 99.80% 99.81% 99.81%
+Virtuales con los servicios críticos
+disponibilidad
+garantizada para
+los
+administrados
+67
+--- PAGINA 68 ---
+Objetivos Estratégicos Acciones Estratégicas Logros esperados en el período del
+Objetivo
+D
+s
+i g
+d
+i
+e
+t a
+G
+l
+obierno
+Código
+Instituc
+D
+io
+e
+n
+s
+a
+c
+l
+r
+e
+ip
+s
+ción Códig
+I
+o
+n stituci
+D
+on
+es
+a
+c
+le
+r
+s
+ip ción
+Nombre del Indicador
+2025
+pl
+2
+a
+0
+n
+2 6 2027
+AEI.01.08 Trazabilidad Porcentaje de Trazabilidad 99.4% - 99.4% - 99.4% -
+ampliada de los alcanzada en el control de 99.7% 99.7% 99.7%
+insumos insumos químicos con riesgo de
+químicos y desvío al tráfico ilícito de drogas
+bienes (TID)
+fiscalizados en el
+país
+OEI.02 Fortalecer la AEI.02.01 Implementación Porcentaje de cumplimiento de 100% 100% 100%
+seguridad de la de la seguridad entregables para la
+cadena logística en de la cadena implementación de la cadena
+el comercio exterior logística en segura
+el comercio
+exterior
+OEI.03 Facilitar las AEI.03.01 Facilitación de Porcentaje de cumplimiento de 100% 100% 100%
+operaciones lícitas procesos de entregables de procesos
+en el comercio comercio exterior aduaneros priorizados
+exterior priorizados para
+los administrados
+Objetivo de Gobierno OEI.01 Mejorar el AEI.01.04 Modernización y Porcentaje de cumplimiento de 100% 100% 100%
+Digital 2 cumplimiento transformación entregables para la modernización
+Mejorar la eficiencia de tributario y aduanero digital de los y transformación digital en TI
+la SUNAT respecto de de los administrados procesos de la Porcentaje de cumplimiento de 100% 100% 100%
+los servicios que brinda entidad entregables para la modernización
+a los contribuyentes y y transformación digital en
+usuarios aduaneros, Aduanas
+mediante la digitalización AEI.01.07 Servicios Virtuales Porcentaje de disponibilidad de 99.80% 99.81% 99.81%
+de sus procesos con disponibilidad los servicios críticos
+garantizada para
+los administrados
+OEI.03 Facilitar las AEI.03.01 Facilitación de Porcentaje de cumplimiento de 100% 100% 100%
+operaciones lícitas procesos de entregables de procesos
+en el comercio comercio exterior aduaneros priorizados
+exterior priorizados para
+los administrados
+Objetivo de Gobierno Mejorar el AEI.01.01 Gestión efectiva Porcentaje de contribuyentes 24.7% 25% 25.4%
+Digital 3 cumplimiento del cumplimiento gestionados y/o asistidos (CGA)
+Impulsar el desarrollo de tributario y aduanero tributario de los
+servicios digitales de los administrados administrado
+68
+--- PAGINA 69 ---
+Objetivos Estratégicos Acciones Estratégicas Logros esperados en el período del
+Objetivo
+D
+s
+i g
+d
+i
+e
+t a
+G
+l
+obierno
+Código
+Instituc
+D
+io
+e
+n
+s
+a
+c
+l
+r
+e
+ip
+s
+ción Códig
+I
+o
+n stituci
+D
+on
+es
+a
+c
+le
+r
+s
+ip ción
+Nombre del Indicador
+2025
+pl
+2
+a
+0
+n
+2 6 2027
+interoperables con las OEI.01 AEI.01.02 Gestión efectiva Porcentaje de Declaraciones 92.1% 92% 92.1%
+entidades del estado y del cumplimiento Aduaneras de Mercancías
+sectores estratégicos, a aduanero de los (DAM) de importación para el
+partir de una administrados consumo con diligencia de
+infraestructura flexible y despacho
+escalable Porcentaje de Declaraciones 49% 51.3% 52.4%
+Aduaneras de Mercancías
+(DAM) de importación para el
+consumo que cumplen con el
+pago oportuno
+OEI.02 Fortalecer la AEI.02.01 Implementación Porcentaje de cumplimiento de 100% 100% 100%
+seguridad de la de la seguridad entregables para la
+cadena logística en de la cadena implementación de la cadena
+el comercio exterior logística en segura
+el comercio
+exterior
+OEI.03 Facilitar las AEI.03.01 Facilitación de Porcentaje de cumplimiento de 100% 100% 100%
+operaciones lícitas procesos de entregables de procesos
+en el comercio comercio exterior aduaneros priorizados
+exterior priorizados para
+los administrados
+OEI.04 Fortalecer las AEI.04.01 Atención Porcentaje de cobertura en la 60% 70% 80%
+capacidades de oportuna y eficaz atención de servicios TIC de
+gestión institucional de la demanda manera oportuna y eficaz.
+de servicios TIC
+de la institución
+Objetivo de Gobierno OEI.01 Mejorar el Porcentaje de cumplimiento de 100% 100% 100%
+Digital 4 cumplimiento entregables asociados a la
+Desarrollar la gestión de tributario y aduanero Consolidación de consolidación de la gestión de
+riesgos de AEI.01.03 la gestión de riesgos de cumplimiento
+cumplimiento, a partir riesgos de tributario
+del uso intensivo de cumplimiento Porcentaje de cumplimiento de 100% 100% 100%
+tecnologías emergentes, tributario y entregables para la
+así como del desarrollo aduanero de los consolidación de la gestión de
+de modelos de datos Administrados riesgos de cumplimiento
+analíticos y predictivos aduanero
+que permitan la
+AEI.01.05 Desarrollo de Porcentaje de cumplimiento de 100% 100% 100%
+detección de
+iniciativas de entregables asociados al
+incumplimientos
+tributarios y aduaneros.
+Fiscalidad desarrollo de iniciativas de
+internacional en fiscalidad internacional
+el país
+69
+--- PAGINA 70 ---
+Objetivos Estratégicos Acciones Estratégicas Logros esperados en el período del
+Objetivo
+D
+s
+i g
+d
+i
+e
+t a
+G
+l
+obierno
+Código
+Instituc
+D
+io
+e
+n
+s
+a
+c
+l
+r
+e
+ip
+s
+ción Códig
+I
+o
+n stituci
+D
+on
+es
+a
+c
+le
+r
+s
+ip ción
+Nombre del Indicador
+2025
+pl
+2
+a
+0
+n
+2 6 2027
+AEI.01.08 Trazabilidad Porcentaje de Trazabilidad 99.4% - 99.4% - 99.4% -
+ampliada de los alcanzada en el control de 99.7% 99.7% 99.7%
+insumos insumos químicos con riesgo de
+químicos y desvío al tráfico ilícito de drogas
+bienes (TID)
+fiscalizados en el
+país
+OEI.04 Fortalecer las AEI.04.01 Atención Porcentaje de cobertura en la 60% 70% 80%
+capacidades de oportuna y eficaz atención de servicios TIC de
+gestión institucional de la demanda manera oportuna y eficaz.
+de servicios TIC
+de la institución
+AEI.04.02 Gestión eficiente Porcentaje de cumplimiento de 100% 100% 100%
+de los sistemas Entregables relacionados a los
+administrativos y procesos de gestión interna
+funcionales
+Objetivo de Gobierno OEI.01 Mejorar el AEI.01.07 Servicios Porcentaje de disponibilidad de 99.8% 99.81% 99.81%
+Digital 5 cumplimiento tributario Virtuales con los servicios críticos
+Impulsar una y aduanero disponibilidad
+Administración Tributario garantizada para
+Aduanera confiable los
+sobre la base del uso de administrados
+una plataforma OEI.03 Facilitar las AEI.03.01 Facilitación de Porcentaje de cumplimiento de 100% 100% 100%
+informática con niveles operaciones lícitas procesos de entregables de procesos
+adecuados de en el comercio comercio aduaneros priorizados
+disponibilidad, exterior exterior
+integridad, seguridad y priorizados para
+confidencialidad en la los
+información que administrados
+gestiona, asegurando su
+OEI.04 Fortalecer las AEI.04.01 Atención Porcentaje de cobertura en la 60% 70% 80%
+gobernabilidad y
+capacidades de oportuna y eficaz atención de servicios TIC de
+capacidad de respuesta
+gestión institucional de la demanda manera oportuna y eficaz.
+frente a nuevas
+de servicios TIC
+amenazas y desafíos a
+de la institución
+nivel digital.
+70
+--- PAGINA 71 ---
+5.3 MATRIZ DE VINCULACIÓN DE OBJETIVOS DE GOBIERNO DIGITAL CON LOS DESAFÍOS
+En la siguiente matriz, se muestra cómo los OGD definidos responden a los desafíos identificados para la implementación del Gobierno Digital en la
+SUNAT:
+Desafío Desafío Desafío Desafío Desafío
+Objetivos
+1 2 3 4 5
+Objetivo de Gobierno Digital 1
+X X X
+Implementar servicios digitales innovadores y accesibles que faciliten el cumplimiento tributario y aduanero.
+Objetivo de Gobierno Digital 2
+Mejorar la eficiencia de la SUNAT respecto de los servicios que brinda a los contribuyentes y usuarios X X X X X
+aduaneros, mediante la digitalización de sus procesos.
+Objetivo de Gobierno Digital 3
+Impulsar el desarrollo de servicios digitales interoperables con las entidades del estado y sectores estratégicos, X X X
+a partir de una infraestructura flexible y escalable.
+Objetivo de Gobierno Digital 4
+Desarrollar la gestión de riesgos de cumplimiento, a partir del uso intensivo de tecnologías emergentes, así
+X X X
+como del desarrollo de modelos de datos analíticos y predictivos que permitan la detección de incumplimientos
+tributarios y aduaneros.
+Objetivo de Gobierno Digital 5
+Impulsar una Administración Tributario Aduanera confiable sobre la base del uso de una plataforma informática
+con niveles adecuados de disponibilidad, integridad, seguridad y confidencialidad en la información que X X X X X
+gestiona, asegurando su gobernabilidad y capacidad de respuesta frente a nuevas amenazas y desafíos a
+nivel digital.
+71
+--- PAGINA 72 ---
+5.4 MATRIZ DE VINCULACIÓN DE OBJETIVOS DE GOBIERNO
+DIGITAL CON LOS PILARES DE LA MEJORA DEL
+CUMPLIMIENTO DE LA SUNAT
+Los pilares de la SUNAT para la mejora del cumplimiento definen una hoja de ruta para
+enfrentar los incumplimientos y riesgos de cumplimiento, mediante la ejecución de diversas
+acciones estratégicas y operativas, alineadas al Plan Estratégico de la SUNAT, al modelo de
+gestión de riesgos y al de gestión por procesos que la Institución viene implementando.
+Siendo dicho pilares:
+(i) Pilar 1: La gestión de riesgos masivos, que busca aplicar tratamientos diferenciados
+frente a comportamientos distintos de los contribuyentes para motivar el cumplimiento
+voluntario de sus obligaciones;
+(ii) Pilar 2: La transformación digital, que apunta a mejorar principalmente la forma en que
+nos relacionamos con el contribuyente e incrementar los niveles de eficiencia de los
+procedimientos, utilizando los beneficios de las nuevas tecnologías;
+(iii) Pilar 3: La fiscalidad internacional, que se orienta a reducir la erosión de la base
+imponible y el traslado de beneficios sobre todo en las operaciones transfronterizas y/o
+intragrupo; y,
+(iv) Pilar 4: El cumplimiento colaborativo, que se dirige a crear un modo relacional de
+confianza entre los contribuyentes y la Administración Tributaria, a partir de la
+transferencia mutua.
+La siguiente matriz muestra cómo los pilares de la mejora del cumplimiento se vinculan a los
+objetivos definidos para la implementación del Gobierno Digital de la SUNAT:
+Objetivos Pilar 1 Pilar 2 Pilar 3 Pilar 4
+OGD 1: Implementar servicios digitales innovadores y accesibles que
+faciliten el cumplimiento tributario y aduanero.
+X X
+OGD 2: Mejorar la eficiencia de la SUNAT respecto de los servicios
+que brinda a los contribuyentes y usuarios aduaneros, mediante la X X
+digitalización de sus procesos.
+OGD 3: Impulsar el desarrollo de servicios digitales interoperables
+con las entidades del estado y sectores estratégicos, a partir de una X X X
+infraestructura flexible y escalable.
+OGD 4: Desarrollar la gestión de riesgos de cumplimiento, a partir
+del uso intensivo de tecnologías emergentes, así como del desarrollo
+X X X
+de modelos de datos analíticos y predictivos que permitan la
+detección de incumplimientos tributarios y aduaneros.
+OGD 5: Impulsar una Administración Tributario Aduanera confiable
+sobre la base del uso de una plataforma informática con niveles
+adecuados de disponibilidad, integridad, seguridad y confidencialidad
+X X
+en la información que gestiona, asegurando su gobernabilidad y
+capacidad de respuesta frente a nuevas amenazas y desafíos a nivel
+digital.
+72
