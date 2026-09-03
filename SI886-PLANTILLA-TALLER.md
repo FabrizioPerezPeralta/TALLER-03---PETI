@@ -49,6 +49,8 @@ Análisis documental comparado del Plan Estratégico Institucional y del Plan de
 | Recurso | Detalle |
 |---|---|
 | **Portal del Estado Peruano** | https://www.gob.pe — sección de transparencia de la SUNAT |
+| **URL del PEI** | https://www.sunat.gob.pe/legislacion/superin/2025/anexo-000395-2025.pdf |
+| **URL del PGD** | https://www.sunat.gob.pe/legislacion/superin/2024/anexo-000301-2024.pdf |
 | **CEPLAN** | https://www.gob.pe/ceplan — *Guía para el Planeamiento Institucional* |
 | **Lineamientos del PGD** | https://cdn.www.gob.pe/uploads/document/file/356863/Anexo_I_Lineamientos_PGD.pdf |
 | **Normativa de gobierno digital** | https://www.gob.pe/institucion/pcm/colecciones/147-normativa-sobre-gobierno-digital |
@@ -82,7 +84,7 @@ Con toda la información recolectada y analizada, se redactó el archivo `1.2_ma
 
 | # | Resultado esperado | ¿Se logró? | Evidencia |
 |---|---|---|---|
-| 1 | PEI y PGD localizados, con resolución de aprobación | Sí | [MP01_documentos.csv](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/MP01_documentos.csv) |
+| 1 | PEI y PGD localizados, con resolución de aprobación | Sí | [URL PEI](https://www.sunat.gob.pe/legislacion/superin/2025/anexo-000395-2025.pdf)<br>[URL PGD](https://www.sunat.gob.pe/legislacion/superin/2024/anexo-000301-2024.pdf)<br>[MP01_documentos.csv](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/MP01_documentos.csv) |
 | 2 | Estructura de ambos documentos extraída | Sí | [MP02_estructura_pei.csv](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/MP02_estructura_pei.csv) |
 | 3 | Objetivos del PEI y del PGD identificados | Sí | [MP03_objetivos_pgd.csv](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/MP03_objetivos_pgd.csv) |
 | 4 | Matriz de articulación completa | Sí | [MP04_articulacion.csv](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/MP04_articulacion.csv) |
