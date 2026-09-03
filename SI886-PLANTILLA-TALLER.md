@@ -64,7 +64,7 @@ Análisis documental comparado del Plan Estratégico Institucional y del Plan de
 # 2. Procedimiento o metodología
 
 ## Paso A — Localizar los documentos
-Se seleccionó a la Superintendencia Nacional de Aduanas y de Administración Tributaria (SUNAT). Se procedió a descargar desde gob.pe el Plan Estratégico Institucional (PEI) 2026-2030 (Aprobado por Res. 000395-2025) y el Plan de Gobierno Digital (PGD) 2025-2027 (Aprobado por Res. 000301-2024). Los archivos PDF de los Anexos se guardaron en la carpeta `evidencias/`.
+Se seleccionó a la Superintendencia Nacional de Aduanas y de Administración Tributaria (SUNAT). Se procedió a descargar desde gob.pe el [Plan Estratégico Institucional (PEI) 2026-2030](https://www.sunat.gob.pe/legislacion/superin/2025/anexo-000395-2025.pdf) (Aprobado por Res. 000395-2025) y el [Plan de Gobierno Digital (PGD) 2025-2027](https://www.sunat.gob.pe/legislacion/superin/2024/anexo-000301-2024.pdf) (Aprobado por Res. 000301-2024). Los archivos PDF de los Anexos se guardaron en la carpeta `evidencias/`.
 
 ## Paso B — Extraer la estructura de los documentos
 Se ejecutaron los scripts de Python `MP02_extraccion.py` y `MP03_objetivos.py` provistos por el taller, haciendo uso de la librería `pdfplumber` para leer ambos PDFs. Se logró identificar 24 objetivos en el PEI y 5 Objetivos de Gobierno Digital (OGD) en el PGD. Los resultados se guardaron en la carpeta `01_marco/` en archivos `.csv`.
@@ -82,20 +82,18 @@ Con toda la información recolectada y analizada, se redactó el archivo `1.2_ma
 
 | # | Resultado esperado | ¿Se logró? | Evidencia |
 |---|---|---|---|
-| 1 | PEI y PGD localizados, con resolución de aprobación | Sí | [URL del CSV en GitHub] |
-| 2 | Estructura de ambos documentos extraída | Sí | [URL de MP02_estructura_*.csv en GitHub] |
-| 3 | Objetivos del PEI y del PGD identificados | Sí | [URL de MP03_objetivos_*.csv en GitHub] |
-| 4 | Matriz de articulación completa | Sí | [URL de MP04_articulacion.csv en GitHub] |
-| 5 | Porcentaje de objetivos completos calculado | Sí | [URL de salida de consola en GitHub] |
-| 6 | Evaluación del PGD contra los 9 componentes de Lineamientos | Sí | [URL de MP06_estructura_lineamientos.csv en GitHub] |
-| 7 | Mapa de instrumentos de la organización propia | Sí | [URL de graficos/mapa_instrumentos.png en GitHub] |
-| 8 | Tabla de instrumentos de la organización | Sí | [URL de MP07_instrumentos_organizacion.csv en GitHub] |
-| 9 | Objetivo superior de enganche identificado | Sí | [URL de 1.2_marco_planeamiento.md en GitHub] |
-| 10 | Declaración de enfoque estratégico con cláusula de exclusión | Sí | [URL de 1.2_marco_planeamiento.md en GitHub] |
-| 11 | Sección 1.2 redactada | Sí | [URL de 1.2_marco_planeamiento.md en GitHub] |
-| 12 | Etiqueta v0.3 en Git | Sí | [URL de etiqueta en GitHub] |
-
-*(Nota: Sustituir los textos "[URL...]" por los enlaces reales a tu repositorio de GitHub antes de exportar a PDF).*
+| 1 | PEI y PGD localizados, con resolución de aprobación | Sí | [MP01_documentos.csv](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/MP01_documentos.csv) |
+| 2 | Estructura de ambos documentos extraída | Sí | [MP02_estructura_pei.csv](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/MP02_estructura_pei.csv) |
+| 3 | Objetivos del PEI y del PGD identificados | Sí | [MP03_objetivos_pgd.csv](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/MP03_objetivos_pgd.csv) |
+| 4 | Matriz de articulación completa | Sí | [MP04_articulacion.csv](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/MP04_articulacion.csv) |
+| 5 | Porcentaje de objetivos completos calculado | Sí | [salidas_MP05.txt](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/salidas_MP05.txt) |
+| 6 | Evaluación del PGD contra los 9 componentes de Lineamientos | Sí | [MP06_estructura_lineamientos.csv](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/MP06_estructura_lineamientos.csv) |
+| 7 | Mapa de instrumentos de la organización propia | Sí | [mapa_instrumentos.png](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/graficos/mapa_instrumentos.png) |
+| 8 | Tabla de instrumentos de la organización | Sí | [MP07_instrumentos_organizacion.csv](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/MP07_instrumentos_organizacion.csv) |
+| 9 | Objetivo superior de enganche identificado | Sí | [1.2_marco_planeamiento.md#123-objetivo-superior-de-enganche](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/1.2_marco_planeamiento.md#123-objetivo-superior-de-enganche) |
+| 10 | Declaración de enfoque estratégico con cláusula de exclusión | Sí | [1.2_marco_planeamiento.md#124-enfoque-estratégico-de-la-organización](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/1.2_marco_planeamiento.md#124-enfoque-estratégico-de-la-organización) |
+| 11 | Sección 1.2 redactada | Sí | [1.2_marco_planeamiento.md](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/blob/taller-03/01_marco/1.2_marco_planeamiento.md) |
+| 12 | Etiqueta v0.3 en Git | Sí | [Release v0.3](https://github.com/FabrizioPerezPeralta/TALLER-03---PETI/releases/tag/v0.3) |
 
 # 4. Conclusiones
 
@@ -109,8 +107,8 @@ Con toda la información recolectada y analizada, se redactó el archivo `1.2_ma
 
 # 6. Referencias bibliográficas
 
-- Superintendencia Nacional de Aduanas y de Administración Tributaria (2024). *Resolución de Superintendencia N.º 000301-2024/SUNAT*. Aprueba el Plan de Gobierno Digital 2025-2027 de la SUNAT.
-- Superintendencia Nacional de Aduanas y de Administración Tributaria (2025). *Resolución de Superintendencia N.º 000395-2025/SUNAT*. Aprueba el Plan Estratégico Institucional para el período 2026-2030 de la SUNAT.
+- Superintendencia Nacional de Aduanas y de Administración Tributaria (2024). *Resolución de Superintendencia N.º 000301-2024/SUNAT*. Aprueba el Plan de Gobierno Digital 2025-2027 de la SUNAT. Recuperado de: https://www.sunat.gob.pe/legislacion/superin/2024/anexo-000301-2024.pdf
+- Superintendencia Nacional de Aduanas y de Administración Tributaria (2025). *Resolución de Superintendencia N.º 000395-2025/SUNAT*. Aprueba el Plan Estratégico Institucional para el período 2026-2030 de la SUNAT. Recuperado de: https://www.sunat.gob.pe/legislacion/superin/2025/anexo-000395-2025.pdf
 - Presidencia del Consejo de Ministros (2018). *Resolución de Secretaría de Gobierno Digital 005-2018-PCM/SEGDI*. Lineamientos para la formulación del Plan de Gobierno Digital.
 
 # 7. Anexos
